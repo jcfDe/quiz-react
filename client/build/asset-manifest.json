@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.192cb166.css",
+    "main.js": "/static/js/main.9d90f5e7.js",
+    "static/js/845.3c9bd8c4.chunk.js": "/static/js/845.3c9bd8c4.chunk.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/brent-rambo-thumbs-up.gif": "/static/media/brent-rambo-thumbs-up.01b16a2abfed5b1f95b1.gif",
+    "static/media/no-donkeys.gif": "/static/media/no-donkeys.0396e7abab287e7f98ee.gif",
+    "static/media/sndLoad.mp3": "/static/media/sndLoad.156d1c871fd164c3ec4c.mp3",
+    "static/media/image_processing20210903-11678-1a0xsu0.gif": "/static/media/image_processing20210903-11678-1a0xsu0.08645611f756eeb44d4b.gif",
+    "static/media/sndOk.mp3": "/static/media/sndOk.23c2f451f0701bab8544.mp3",
+    "static/media/sndNo.mp3": "/static/media/sndNo.894a332a6dea6cb224bb.mp3",
+    "static/media/Modenine-2OPd.ttf": "/static/media/Modenine-2OPd.116d0efd9dbb932a0a45.ttf",
+    "index.html": "/index.html",
+    "main.192cb166.css.map": "/static/css/main.192cb166.css.map",
+    "main.9d90f5e7.js.map": "/static/js/main.9d90f5e7.js.map",
+    "845.3c9bd8c4.chunk.js.map": "/static/js/845.3c9bd8c4.chunk.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192cb166.css",
+    "static/js/main.9d90f5e7.js"
+  ]
+}

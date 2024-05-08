@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which App you use to get snacks, drinks and cofee without cash in The Bridge?",
+        "correct_answer": "Breasy",
+        "incorrect_answers": [
+            "Survivor.io",
+            "Slack",
+            "Bootstrap"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Frontend development, what is the most common and easily way to get fantasy in your web?",
+        "correct_answer": "Bootstrap",
+        "incorrect_answers": [
+            "React",
+            "&#039;For&#039; loops",
+            "Array.push()"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What kind of loop is the first in the morning in the bridge??",
+        "correct_answer": "Meet audio loop",
+        "incorrect_answers": [
+            "do-While loop",
+            "for loop",
+            "Wubba Lubba dub loop"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "On Slack, who post more messages in #General?",
+        "correct_answer": "Álvaro Fontán",
+        "incorrect_answers": [
+            "David Garcia",
+            "People who forgets stuff in class",
+            "Alumns by mistake"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What Javascript Library let your computers fan look like it's going to take off?",
+        "correct_answer": "React",
+        "incorrect_answers": [
+            "Alexandria Library",
+            "Leaflet",
+            "Node.js"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the correct way to turn on the microwave in the bridge?",
+        "correct_answer": "Push the first button many times",
+        "incorrect_answers": [
+            "Push buttons randomly",
+            "Wait for someone to finish and use the same",
+            "Eat your cold meal"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does '...' mean in Javascipt?",
+        "correct_answer": "Spread and Rest operator",
+        "incorrect_answers": [
+            "3 dots",
+            "Dramatic Pause",
+            "Etc"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How long it takes to complete our bootcamp?",
+        "correct_answer": "16 weeks",
+        "incorrect_answers": [
+            "Almost a year",
+            "15 days",
+            "Just after learn React"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Is possible to open and close the Database conection in node.js?",
+        "correct_answer": "Yes, we know how to do it",
+        "incorrect_answers": [
+            "It's not necessary",
+            "Is better only open the connection when server starts",
+            "I'll try but i'll get errors"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does MERN mean?",
+        "correct_answer": "MongoDB, Express JS, React JS, Node JS",
+        "incorrect_answers": [
+            "Marquina Express LeaRN",
+            "Muy Entretenido React: No",
+            "Must Enhance Repository Native"
+        ]
+    }
+]

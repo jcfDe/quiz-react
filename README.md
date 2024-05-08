@@ -1,4 +1,4 @@
-# Quiz React
+## Quiz React
 
 Aplicación únicamente frontEnd hecha con react. 
 
